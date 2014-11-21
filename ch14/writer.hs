@@ -1,3 +1,5 @@
+import Data.Monoid
+
 -- {{{ Introduction
 --
 -- The `Writer` monad is for values that have another value attached that acts
